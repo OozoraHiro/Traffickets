@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265352897487",
+    "project_id": "login-register-firebase-ce340",
+    "storage_bucket": "login-register-firebase-ce340.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265352897487:android:6eebc40f551d9de8cc68ba",
+        "android_client_info": {
+          "package_name": "com.marcangelolopez.traffickets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD46ucQ7IxW1ftLrUMaQmWrPGN62uEjzkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
